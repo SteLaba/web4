@@ -4,7 +4,7 @@ login_form
 flex-col
 items-center
 w-full">
-    <h2>Логинка</h2>
+    <h2>Логин</h2>
     <div class="login_inputs flex-col items-center">
       <my-input :placeholder="placeholders[0]" v-model="username"></my-input>
       <my-error class="mt-1" :error="errors[0]"></my-error>

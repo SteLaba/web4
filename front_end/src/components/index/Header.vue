@@ -1,7 +1,7 @@
 <template>
   <header class="mb-10">
-    <h1 class="student_name mt-5">Мокров Семён Андреевич P3215</h1>
-    <h1>Вариант №52234</h1>
+    <h1 class="student_name mt-5">Стефан Лабович P3210</h1>
+    <h1>Вариант №51678</h1>
   </header>
 </template>
 

@@ -3,7 +3,7 @@
 flex-col
 items-center
 w-full">
-    <h2>Регистрашка</h2>
+    <h2>Регистрация</h2>
     <div class="reg_inputs flex-col items-center">
       <my-input :placeholder="placeholders[0]" v-model="username"></my-input>
       <my-error class="mt-1" :error="errors[0]"></my-error>
